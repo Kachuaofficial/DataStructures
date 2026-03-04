@@ -1,55 +1,55 @@
 # DSA Ignite
 
 <p align="center">
-  <b>Sharp Java. Cleaner logic. Faster problem-solving.</b>
+  <b>Java DSA practice that is fast to read, easy to run, and built for consistency.</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-0B5FFF?style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/Focus-DSA-black?style=for-the-badge" alt="DSA">
-  <img src="https://img.shields.io/badge/Status-Building-FF5A1F?style=for-the-badge" alt="Building">
+  <img src="https://img.shields.io/badge/Track-DSA-black?style=for-the-badge" alt="DSA">
+  <img src="https://img.shields.io/badge/Status-Active-FF5A1F?style=for-the-badge" alt="Active">
 </p>
 
-## Why this repo exists
-This project is a clean launchpad for **Data Structures & Algorithms in Java**.
-The goal is simple: build strong fundamentals, solve real problems, and keep code easy to read under pressure.
+## Overview
+This repository is a focused workspace for practicing **Data Structures and Algorithms in Java**.
+The aim is to build clean problem-solving habits and interview-ready code.
 
-## Current setup
-- `testing.java`: starter Java file
-- `testing.class`: compiled output
+## Current Project Structure
+- `testing.java`: starter Java program
+- `.gitignore`: excludes generated `.class` files from Git
+- `.vscode/settings.json`: hides `.class` files in VS Code explorer/search
 
-## Quick start
+## Run Locally
 ```bash
 javac testing.java
 java testing
 ```
 
-Expected output:
+Output:
 ```text
 testing
 ```
 
-## What’s coming next
-- Arrays and Strings patterns
-- Linked List operations
-- Stack and Queue problems
-- Trees and Graph traversal
+## Roadmap
+- Arrays and Strings
+- Linked Lists
+- Stacks and Queues
+- Trees and Graphs
 - Recursion and Backtracking
-- Dynamic Programming basics to advanced
+- Dynamic Programming
 
-## Project style
-- Keep solutions concise and interview-ready
-- Prefer readable naming over clever shortcuts
-- Add complexity notes (`Time`, `Space`) for each problem
+## Coding Rules
+- Keep solutions readable and concise
+- Add `Time Complexity` and `Space Complexity` notes
+- Prefer clear naming over short cryptic variables
 
-## Contributing
-Contributions are welcome.
-If you want to add a problem/solution, open a PR with:
-- Problem statement (short)
-- Approach
+## Contribution Format
+When adding a problem, include:
+- Problem statement
+- Approach summary
 - Java solution
 - Time and Space complexity
 
 ---
 
-If this helps you level up your DSA game, drop a star and follow the journey.
+If this project helps you, consider starring the repo.
